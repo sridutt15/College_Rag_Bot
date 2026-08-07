@@ -1,0 +1,126 @@
+# ============================
+# Python
+# ============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ============================
+# Virtual Environments
+# ============================
+
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ============================
+# Environment Variables
+# ============================
+
+.env
+.env.*
+
+# ============================
+# IDEs
+# ============================
+
+.vscode/
+.idea/
+*.iml
+
+# ============================
+# Jupyter
+# ============================
+
+.ipynb_checkpoints/
+
+# ============================
+# Build Files
+# ============================
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ============================
+# Python Cache
+# ============================
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+.coverage
+.coverage.*
+htmlcov/
+
+# ============================
+# Logs
+# ============================
+
+*.log
+
+# ============================
+# SQLite Databases
+# ============================
+
+*.sqlite
+*.sqlite3
+
+# ============================
+# Chroma Vector Database
+# ============================
+
+vector_db_dir/
+idea/
+
+# ============================
+# FAISS (if used later)
+# ============================
+
+faiss_index/
+
+# ============================
+# LangChain Cache
+# ============================
+
+.langchain/
+
+# ============================
+# Temporary Files
+# ============================
+
+*.tmp
+*.temp
+
+# ============================
+# OS Files
+# ============================
+
+.DS_Store
+Thumbs.db
+
+# ============================
+# Project Specific
+# ============================
+
+config.json
+project_documentation.md
+LICENSE
+
+# ============================
+# Optional
+# ============================
+
+# Uncomment if your data folder contains large PDFs
+# data/
+
+# Uncomment if images are generated automatically
+images/
