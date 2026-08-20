@@ -536,6 +536,3 @@ For sensitive inquiries, always escalate to appropriate human representatives.
 - **Chroma**: For efficiently managing and querying vectorized data.
 
 ---
-
-**Last Updated**: December 2025  
-**Version**: 1.0.0
